@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="/assets/unlost-banner.png> alt="Bannière Unlost">
+<img src="/assets/unlost-banner.png>" alt="Bannière Unlost">
 
 # Bienvenue sur **Team Unlost**
 
@@ -23,5 +23,5 @@ Nous avons gagné la troisième place de la catégorie **Art Tech** lors du [Yda
 Nous sommes actuellement en train de refaire notre communication. Nous avons [un compte Instagram](https://www.instagram.com/unlost_the_game/) que nous sommes en train de faire revivre d'entre les morts.
 
 <div align="center">
-<img src="/assets/chat-mage-tiny.png> alt="Mais qui est ce chat ?">
+<img src="/assets/chat-mage-tiny.png>" alt="Mais qui est ce chat ?">
 </div>
