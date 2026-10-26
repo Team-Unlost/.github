@@ -1,13 +1,13 @@
 
 <div align="center">
 <img src="/assets/unlost-banner.png" alt="Bannière Unlost">
+</div>
 
 # Bienvenue sur **Team Unlost**
 
 Bonjour cher visiteur 👋
 
 Vous êtes bien sur l'organisation Github officielle de la **Team Unlost** !
-</div>
 
 ## Unlost
 
